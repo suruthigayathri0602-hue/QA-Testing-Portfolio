@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+htmlcov/
+
+# JMeter generated files
+*.jtl
+jmeter.log
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
