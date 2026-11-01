@@ -1,27 +1,66 @@
-# Manual Testing Portfolio
+Flipkart Manual Testing Project 
 
-## Project
-**Flipkart E-Commerce Application – Manual Testing**
+Project Overview:
+    This is a self-practice Manual Testing project based on the Flipkart E-Commerce Web Application.
+The objective of this project is to demonstrate Software Testing and Quality Assurance skills including:
 
-## Objective
-Document manual testing activities for key e-commerce workflows.
+*  Requirement Analysis
+*  Test Scenario Preparation
+*  Test Case Design
+*  Requirement Traceability Matrix (RTM)
+*  Positive & Negative Testing
+*  Defect Identification Approach
 
-## Suggested contents
-- Test Plan
-- Test Scenarios and Test Cases
-- Requirement Traceability Matrix (RTM)
-- Bug Reports
-- Test Summary Report
+Application Under Test
+Flipkart E-Commerce Website
 
-## Test scope
-Add the actual application modules, requirements, test environment, browser/device details and test data used.
+Modules Covered
+1. User Registration
+2. User Login
+3. Product Search
+4. Product Details
+5. Shopping Cart
+6. Wishlist
+7. Checkout
+8. Payment
+9. Order Placement
+10. Order History
+11. User Profile
+12. Logout
 
-## Execution summary
-- Total test cases: [Enter actual count]
-- Passed: [Enter actual count]
-- Failed: [Enter actual count]
-- Blocked: [Enter actual count]
-- Not executed: [Enter actual count]
+Test Artifacts:
+* Requirement Traceability Matrix (RTM)
+* 60 Manual Test Cases
+* Functional Testing Scenarios
+  
+Tools Used:
+* Microsoft Word
+* PDF Documentation
+* GitHub
+  
+Test Case Summary:
+Module	         Test Cases
+Registration	TC001-TC005
+Login	        TC006-TC010
+Product Search	TC011-TC015
+Product Details	TC016-TC020
+Shopping Cart	TC021-TC025
+Wishlist	TC026-TC030
+Checkout	TC031-TC035
+Payment	        TC036-TC040
+Order Placement	TC041-TC045
+Order History	TC046-TC050
+User Profile	TC051-TC055
+Logout	        TC056-TC060
 
-## Files
-Upload your own completed project documents to this folder. Do not leave sample counts or claim tests that were not executed.
+Project Document
+Please refer to:
+
+Test_Cases/Flipkart-ManualTestingProject.pdf
+
+Author
+Suruthi Gayathri A
+
+Aspiring Software Test Engineer
+
+
